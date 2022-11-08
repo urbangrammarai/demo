@@ -17,9 +17,3 @@ An overview of the Spatial Signatures can be found on the [Story page](https://u
 You can access the Spatial Signatures data product through the [CDRC repository](https://data.cdrc.ac.uk/dataset/spatial-signatures-great-britain) (click on the image below to access:
 
 [![](img/cdrc.png)](https://data.cdrc.ac.uk/dataset/spatial-signatures-great-britain)
-
-+ overview of the project with the Story
-+ interactive map
-+ data product on qgis
-- data product in Python
-- ET cells in Python
